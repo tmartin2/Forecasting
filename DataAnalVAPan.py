@@ -1,4 +1,4 @@
-# Author: Rodeo Flagellum
+# Author: Trevor Martin
 # see https://www.metaculus.com/tournament/realtimepandemic/
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
