@@ -1,6 +1,6 @@
 # Sea Ice Extent in 2023, 2025, 2030
 # https://www.metaculus.com/questions/7939/minimum-antarctic-sea-ice-extent-in-2023/
-# Author: Rodeo Flagellum
+# Author: Trevor Martin
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
